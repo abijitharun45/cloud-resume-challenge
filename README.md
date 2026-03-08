@@ -2,7 +2,7 @@
 
 A full-stack, serverless personal portfolio built and hosted entirely on AWS — showcasing cloud infrastructure, automation, and systems engineering skills.
 
-🔗 **Live Site:** [abijitharun.com](https://abijitharun.com) <!-- Replace with your actual CloudFront URL -->
+🔗 **Live Site:** [abijitharun.dev](https://abijitharun.dev)
 
 ---
 
